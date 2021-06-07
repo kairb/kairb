@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning all things devops
 - 👯 I’m looking to collaborate on anything that sounds interesting
 - 💬 Ask me about life as a dev in London
-- 📫 How to reach me: [Portfolio](https://awesome-hopper-28e19f.netlify.app/) WIP!
+- 📫 How to reach me: [Portfolio](https://portfolio-xi-seven-74.vercel.app/) WIP!
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I can solve a rubiks cube
